@@ -240,6 +240,22 @@
       "price": "96.74",
       "status": "0"
     },
+    "PCAN|42319|20260731|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:30 PM",
+      "date": "20260731",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "1"
+    },
+    "PCAN|42319|20260731|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:30 PM",
+      "date": "20260731",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
     "PVHC|30497|20260731|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "07:05 PM",
@@ -272,20 +288,52 @@
       "price": "96.74",
       "status": "0"
     },
-    "PCAN|42319|20260731|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "06:30 PM",
+    "PVPZ|36008|20260731|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "04:15 PM",
       "date": "20260731",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "1"
+      "cat": "ELITE",
+      "price": "250.98",
+      "status": "3"
     },
-    "PCAN|42319|20260731|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "06:30 PM",
+    "PVPZ|36008|20260731|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "04:15 PM",
       "date": "20260731",
-      "cat": "CLASSIC",
-      "price": "96.74",
+      "cat": "BUDGET",
+      "price": "101.74",
+      "status": "3"
+    },
+    "PVPZ|36009|20260731|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:20 PM",
+      "date": "20260731",
+      "cat": "ELITE",
+      "price": "250.98",
+      "status": "3"
+    },
+    "PVPZ|36009|20260731|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:20 PM",
+      "date": "20260731",
+      "cat": "BUDGET",
+      "price": "101.74",
+      "status": "3"
+    },
+    "PVPZ|36010|20260731|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "10:45 PM",
+      "date": "20260731",
+      "cat": "ELITE",
+      "price": "250.98",
+      "status": "3"
+    },
+    "PVPZ|36010|20260731|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "10:45 PM",
+      "date": "20260731",
+      "cat": "BUDGET",
+      "price": "101.74",
       "status": "3"
     }
   },
