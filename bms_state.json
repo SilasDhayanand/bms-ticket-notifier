@@ -190,7 +190,7 @@
       "date": "20260731",
       "cat": "CLASSIC",
       "price": "96.74",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|42323|20260731|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -214,7 +214,7 @@
       "date": "20260731",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|42324|20260731|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -246,7 +246,7 @@
       "date": "20260731",
       "cat": "ELITE",
       "price": "250.98",
-      "status": "1"
+      "status": "0"
     },
     "PVES|32122|20260731|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -278,7 +278,7 @@
       "date": "20260731",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21388|20260731|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -366,7 +366,7 @@
       "date": "20260731",
       "cat": "BUDGET",
       "price": "101.74",
-      "status": "2"
+      "status": "1"
     },
     "PGMV|20961|20260731|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
