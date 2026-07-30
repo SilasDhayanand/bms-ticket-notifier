@@ -214,7 +214,7 @@
       "date": "20260731",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|42324|20260731|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -390,7 +390,7 @@
       "date": "20260731",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "0"
+      "status": "1"
     },
     "PGMV|20961|20260731|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
